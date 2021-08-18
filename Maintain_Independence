@@ -1,0 +1,17 @@
+"# FinalProjectPygame" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add Origin https://github.com/avitakhilya27/FinalProjectPygame.git
+ git push - kamu asal utama
+ 
+ Judul game = Maintain Independence
+ 
+ asset ada diambil dari pencarian google
+ ada sebagian diambil dari https://www.gameart2d.com/license.html (free lisense)
+ ada juga yang diambil dari https://github.com/afandi354/GamePython
+ 
+ sound effect diambi dari youtube
+ 
+ 
